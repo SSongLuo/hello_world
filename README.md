@@ -1,2 +1,5 @@
 # hello_world
-just another repository
+
+Hi everyone!
+
+hubot here! I'm new here.
